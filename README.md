@@ -1,1 +1,1 @@
-# gluster-object-store
+# gluster-object
